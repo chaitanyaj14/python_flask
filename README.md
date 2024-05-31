@@ -1,6 +1,5 @@
 # Flask Web Development (Work In Progress)
 
-## Overview
 This project demonstrates my journey in learning Flask, a micro web framework for Python. The developed website showcases essential web development functionalities, including database CRUD operations, pagination, authentication, and deployment.
 
 ## Features
